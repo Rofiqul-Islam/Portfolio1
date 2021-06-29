@@ -1,5 +1,5 @@
-#baseURL = "https://rofiqul-islam.github.io/Portfolio/"
-baseURL = "http://example.org/"
+baseURL = "https://rofiqul-islam.github.io/Portfolio1/"
+#baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
