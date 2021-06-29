@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle:
+content: >
+  ## My Skills
+
+  My goal is to build a career as skillful and prospective Software Engineer.
+
+image: images/skill/2.jpg
+
+skill:
+  - title: Java
+    percent: 85
+  - title: C/C++
+    percent: 70
+  - title: Python
+    percent: 60
+  - title: JavaScript
+    percent: 70
+  - title: SpringBoot/SpringMVC
+    percent: 75
+  - title: ReactJS
+    percent: 65
+  - title: SQL/NoSQL Databases
+    percent: 70
+  - title: Algorithm and Problem Solving
+    percent: 85
+  - title: Machine Learning
+    percent: 60
+  
+

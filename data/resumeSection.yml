@@ -1,0 +1,44 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## My Expertises
+
+  
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Master in Computer Science
+
+      PUrsuing Master's degree in Computer Science in Baylor University at Texas in USA.
+    time: 2020-Present
+  - content: >
+      #### Bachlor in Computer Science
+
+      Completed Bachelor's degree in Computer Science From University of Dhaka, Bangladesh.
+    time: 2013-2017
+
+experience:
+  - content: > 
+      #### Reasearch Assistant (CloudHubs Research Group - Baylor University)
+      
+      Working on SOA and Micro-Service (Dis-tributed) architecture.
+      Developing  Business  Process  Extractionproject by static code and log analysis. 
+      Researching on Architectural degradation and Technical Debt.
+      
+    time: 2020-Present
+  - content: >
+      #### Software Engineer (Tiger IT Bangladesh Limited)
+
+      Worked as a full-stack developer. Developed pre-enrollment feature in HighSecurity Driving License(HSDL)project.  pre-enrollment feature in HighSecurity Driving License(HSDL)project. 
+      Worked on pre-enrollment, report genera-tion and other features in Tajikistan DrivingLicense(GAI)project.
+    time: 2018-2019
+  - content: >
+      #### Software and System Developer (Robolab - University of Dhaka) 
+
+      Worked  on  hand-motion  detection  basedproject using Kinect. Worked on gesture-controlled robot car project.
+    time: 2015-2017

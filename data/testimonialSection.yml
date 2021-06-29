@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## Other Activities
+
+testimonial:
+  - name: Reading Book
+    comment: I love to read story books. Thriller, Mystery, Sci-Fi are my fovorite topic.
+    #time: Jan 20, 2020
+    star: 5
+  - name: Indoor and Outdoor games.
+    comment: I love to play different kinds of indoor and outdoor games. Soccer, Pingpong, Cricket, Tennis, Chess, Badminton are my favorite games. I also liked to play different kinds of video games.
+    #time: Jan 16, 2020
+    star: 5
+  - name: Travelling
+    comment: I love to travel around world and see new places. Watching natural beauty and wild animals always thrilled me. Kayaking, Cycling, Hiking also make me excited. 
+    #time: Mar 08, 2020
+    star: 4.5

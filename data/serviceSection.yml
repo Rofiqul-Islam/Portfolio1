@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## Working Area
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Web Application Development 
+
+      Created multiple web application using Java, Python, JavaScript, SpringBoot, ReactJS, SQL/NoSQL databases and other technologies.
+    image: images/service/ui-ux.svg
+
+  - content: >
+      #### Backend Development
+
+      Enjoy Backend design and development. Love to Optimize the performance and find out innovative solution with latest technology like Kafka, Redis, Docker, Kubernetes, Spark Elastic Search etc. 
+
+      
+    image: images/service/creative.svg
+  
+  - content: >
+      #### SOA & Microservice Architecture
+
+      Worked on multiple SOA and Microservice project. Also researching on them as a research assistant at Cloudhubs lab in Baylor University. 
+    image: images/service/branding.svg 
+
+  - content: >
+      #### Machine Learning and Robotics
+
+      Experienced in Machine learning and Robotics. Worked in Robolab in University of Dhaka as a part of research project. Enjoy working with NLP, face recognition etc.
+    image: images/service/web.svg 
+   
+  
+ 

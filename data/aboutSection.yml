@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## About me
+
+  Enjoy learning new technology, developing multidimensional projects and working in team.
+content: >
+  ### I love to find out innovative and optimal solution.
+
+  I love to work in backend and frontend development in industrial projects. Finding out innovative solutions and using latest technologies is my main goal. I had more than
+  one year experience as a software engineer in renowned company of handling multiple large projects.
+button1Name: Contact me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/portfolio/img.jpeg

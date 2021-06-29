@@ -1,0 +1,8 @@
+---
+title: "Optimal Execution of Virtualized Network Functions for Applications in Cyber-Physical-Social-Systems - IEEE Access"
+date: 2018-02-14T12:49:27+06:00
+featureImage: images/allpost/IEEE_Access.jpeg
+postImage: images/single-blog/IEEE_Access.jpg
+---
+
+Cyber-physical-social systems exploit the relationship between humans, computers, and the physical environment to provide high-quality real-time and personalized services. Provisioning services for applications in networks of large datacenters (DCs) is carried out as service function chaining (SFC) by linking ordered list of functions. With the development of software, defined networks and network function virtualization, SFC has gained more attention in the industry for deploying larger applications. Provisioning different service functions (SFs) of an SFC in different DC in a multi DC environment is a challenging task. Existing works on serving SFC select a service function path (SFP) along which the SFs are executed. However, none of the works provide the optimal solutions considering both the execution and data-transfer delay along with electric-optic-electric (EOE) conversion delay. In this paper, an optimal solution for SFP selection has been developed considering processing, transmission, and EOE conversion delay. The proposed dynamic solution can work in a heterogeneous environment. Performance evaluation of the proposed algorithm shows that, significant performance improvement in terms of total end-to-end execution delay of an SFC can be achieved compared with the state-of-the-art works.

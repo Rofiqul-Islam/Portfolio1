@@ -1,0 +1,70 @@
+#baseURL = "https://rofiqul-islam.github.io/Portfolio/"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "MRI"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Achievement"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+
+
+[params]
+blogPageURL = "#blog"
+contactLink = "contact"
+footerLogo = "images/contact/logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "1825 S 3rd Street, Waco, Texas, ZIP - 76706"
+email = "rofiqul_islam1@baylor.edu"
+phone = "+(1) 254 400 4440"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/md-rofiqul-islam-1a3952141/"
+weight = 1
+[[params.social]]
+icon = "fa-github-square"
+url = "https://github.com/Rofiqul-Islam"
+weight = 2
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/MDROFIQ27230634"
+weight = 3
