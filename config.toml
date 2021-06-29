@@ -3,7 +3,7 @@ baseURL = "https://rofiqul-islam.github.io/Portfolio1/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "MRI"
+title = "Rofiqul's Portfolio"
 # Main Menu
 [[menu.main]]
 name = "Home"
